@@ -1,0 +1,354 @@
+{
+  "settings": {
+    "name": "FIVERR",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#f30e72",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#300afe",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#553982",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Montserrat",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": true
+      },
+      "additionalSetColors": [
+        "#300afe",
+        "#fb0dca",
+        "#f30e72",
+        "#f30e30",
+        "#fcf601",
+        "#ff5309"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 13,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/54545-128x105.png",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "FIVERR",
+        "meta_descr": "Продвижение крупнейшего в мире рынка цифровых услуг\n\nПолучить деньги \n\nчтобы управлять трафиком \n\nэто так просто",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "56",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/main-image.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Максимальный Заработок",
+          "text": "<br><b>Продвижение крупнейшего в мире рынка цифровых услуг\n<br>Получить деньги <br>чтобы управлять трафиком <br>это так просто\n<br>Это бесплатно <br></b><b>&nbsp; &nbsp;... чтобы начать работу&nbsp;</b><br><br><b><br><i>Fiverr &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i><br>является<br>крупнейшим рынком<br>для онлайн-фриланса<br>услуг<br>От маркетинга<br>к дизайну и технику<br>решение доступное<br>для каждой<br>&nbsp;... потребности<br><br>Не упустите эту возможность<br>Мы же всем<br>известны</b><br><b>Более 5,5 млн</b><br><b>человек используют</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://is.gd/eXC06Y\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mobi-mbri mobi-mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>САЙТ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#ff5309"
+            },
+            ".mbr-section-text": {
+              "text-align": "left",
+              "color": "#fcf601"
+            },
+            ".btn": {
+              "font-size": "24px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-text B": {
+              "font-size": "21px"
+            }
+          }
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "Максимальный <br>Заработок<br><br>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>Получите оплату за каждого первого покупателя без реферального лимита и </b><br><b>пожизненной атрибуции\n</b><br>",
+          "title2": "Профессиональная <br>поддержка<br><br>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<b>Получите доступ к профессиональной поддержке <br>учебникам и выделенному </b><br><b>партнерскому менеджеру</b><br><b><br></b>",
+          "title3": "Интуитивные <br>&nbsp;Панели&nbsp;<br><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>Простые в использовании панели </b><br><b>мониторинга для запуска <br>управления и мониторинга</b><br><b> кампаний</b><br><b><br></b>",
+          "title4": "Творческие <br>ресурсы<br><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<b>Портфолио высокоэффективных креативных активов <br>которые помогут вам продвигать\n<br>Не упустите эту возможность</b><br><b><br></b>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://is.gd/eXC06Y\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАРАБОТОК</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://is.gd/eXC06Y\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПОДДЕРЖКА</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://is.gd/eXC06Y\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПАНЕЛИ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://is.gd/eXC06Y\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">РЕСУРСЫ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_anchor": "features6-2",
+          "_styles": {
+            "H4": {
+              "color": "#300afe"
+            },
+            "P": {
+              "color": "#fb0dca"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead DIV": {
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            ".lead": {
+              "color": "#300afe"
+            },
+            ".lead B": {
+              "font-size": "36px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "color": "#f30e72",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br>РЕГИСТРАЦИЯ<br><br>",
+          "text": "<b>Чтобы зарегистрироваться на сайте \n</b><div><b>вам необходимо зайти на главную страницу и выбрать кнопку&nbsp;</b></div><div><b><br></b></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.fiverr.com/start_selling?source=top_nav\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Become a Seller&nbsp;</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-b"
+        },
+        {
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "4",
+            "bgColor": "#fcf601"
+          },
+          "text": "После этого вам необходимо заполнить \n<div>\n</div><div>ваш профайл \n</div><div>\n</div><div>\n</div><div>\n</div><div>Загрузите аватарку \n</div><div>\n</div><div>\n</div><div>\n</div><div>на которой видно ваше лицо \n</div><div>\n</div><div>заказчику будет приятнее и спокойнее \n</div><div>\n</div><div>если он будет общаться с живым человеком \n</div><div>\n</div><div>а не с картинкой<br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div><b><br></b></div><div><b>Расскажите немного \n</b></div><div>\n</div><div><b>о себе \n</b></div><div>\n</div><div>\n</div><div>\n</div><div>укажите языки \n</div><div>\n</div><div>на которых вы готовы \n<span style=\"font-size: 1.07rem;\"></span></div><div>общаться \n<span style=\"font-size: 1.07rem;\"></span></div><div>профессионально \n</div><div><b><br></b></div><div><b>Вы можете пользоваться\n</b></div><div><b>Яндекс и Google \n</b><span style=\"font-size: 1.07rem;\"></span></div><div>переводчиками \n<span style=\"font-size: 1.07rem;\"></span></div><div>все общение на сайте  \n<span style=\"font-size: 1.07rem;\"></span></div><div>в текстовом виде\n</div><div>Очень полезно указать все ваши социальные сети и сайты с портфолио \n<span style=\"font-size: 1.07rem;\"></span></div><div>это повысит вашу конкурентоспособность \n<span style=\"font-size: 1.07rem;\"></span></div><div>и покажет вас как профессионала</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-c",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-size": "36px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#2b0680"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
